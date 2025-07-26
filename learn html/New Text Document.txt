@@ -1,0 +1,224 @@
+# Veriables:
+#     are container use to store data.
+
+# name = "pytthon"
+
+
+# rules to create a veriables:
+#     1) never start from any inerger.
+#     2) never hold spaces.
+#     3) always start from charcters or underscore (_).
+#     4) veriale never hold spacial symboles.
+#     5) never be a keyword.
+
+
+# 1 = 100
+
+# 1abc = "hello"
+
+# full_name = "Kriss Moris"
+
+
+
+# zx = "hello"
+
+# _name = "python"
+
+
+# a1 = "hellooo"
+
+
+# !@#$%%^&**())
+
+# x@r = "hellooo"
+
+
+
+# keywords
+#     are those worlds which are already reserved by a langauge.
+#     we never use these words as veriable
+
+# int, float, def, class, break
+
+
+
+# def = "helloo"
+
+
+
+# a = 10
+
+# b = 20
+
+# c = a + b
+
+# print(c)
+
+
+
+
+
+# Data Types:
+#     1) integer
+    
+#     1, 2, -100, 
+    
+#     10e307
+    
+#     2) float
+#         10.0, 45.90, 100.1
+    
+    
+#     3) string
+#         "this is a string"
+#         'this is also a string'
+#         """this is also a string"""
+#         "10.0"
+    
+#     4) boolean
+#         True, False
+    
+    
+#     5) complex
+#         a + bj
+        
+#         10 + 20j
+    
+    
+#         6) list
+#         7) tuple
+#         8) set
+#         9) dictionry
+
+
+
+# Comments:  
+#     help us to increse code readablility
+
+
+# project <----- mulitple
+
+# 300 lines of code...
+
+
+# Types of comments:
+#     1) single line comments
+    
+#     # this is a sakndand
+    
+#     2) multi line comments
+    
+    # """sakbdakbd
+    # asdkasdj
+    # asjdbakjd
+    # asdkjbaksdj"""
+
+
+# # store data in veriable a
+# a = 10
+
+# b = 20 # store data in second veriale
+
+# # createing a veriable to store ouput
+# c = a + b
+
+# print(c) # show output
+
+
+
+# Core functions
+
+# Types of functions:
+#     1) built in function
+    
+#     2) user define function
+
+
+# x()
+
+
+# print()
+
+# xyz()
+
+# 1) built in function:
+#     1) print()
+#     2) type()
+#     3) input()
+#     4) len()
+#     5) count()
+
+
+# 1) print()
+#     --> help us to show data in terminal.
+
+
+# print("hellow world")
+
+# print("heyyyyyyyyy1")
+
+
+
+# a = 100
+
+# print(a)
+
+
+# a = 100
+
+# b = 200
+
+# print(a,b)
+
+
+# a = 100
+# b = 200
+# c = 300
+
+# print(a,b,c, sep = "/")
+
+# x = 100
+
+# y = 200
+
+# print("x stores data", x, "and y store", y)
+
+
+# a = 10
+# b = 20
+
+# c = a + b
+
+# print("the sum of", a, "and", b, "is : ", c)
+
+
+
+# name = "kriss"
+# age = 20
+# number = 298346982
+# email = "kriss@gmail.com"
+
+
+# print("user name is", name, ", age is", age, ",phone number is", number, "and email address is", email)
+
+# solution --> f-string
+
+# print(f"user name is {name}, age is {age}, phone number is {number} and email adress is {email}")
+
+a = 344
+
+b = 122
+
+c = a + b
+
+print(f"the sum of {a} and {b} is {c}")
+
+
+
+
+
+
+
+
+
+
